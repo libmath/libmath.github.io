@@ -3,7 +3,7 @@ import sys
 
 z = {}
 
-z["index"] = "https://github.com/libmath/math/issues/1"
+z["index"] = "https://github.com/libmath/math/issues"
 z["wiki"] = "https://github.com/libmath/z/wiki"
 z["stack"] = "https://github.com/libmath/math/issues/1"
 z["mods"] = (
